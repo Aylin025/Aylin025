@@ -3,22 +3,21 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm **Aylin Rym**. I'm a **Mathematics (Financial Analysis & Risk Management) student** at the **University of Waterloo**. I work on analytical and programming projects at the intersection of **finance, risk, and software**, with experience in Python, Java, C, and Excel/VBA.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Canada
+- 🎓 Education: University of Waterloo — Bachelor of Mathematics (FARM)
+- 📅 Hacking Since: 2024
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 📊 **Automated Portfolio Analysis Tool** — Excel-based tool for portfolio return and risk analysis using historical price data and VBA automation. (Excel, VBA) 
+- 🃏 **Card Matching Game** — GUI-based memory game built with Java Swing featuring an in-game currency system and persistent storage. (Java) 
+- 📈 **Academic & Financial Computing Projects** — Coursework and exploratory projects in algorithms, linear algebra, and financial markets. (Python, C, SQL) 
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, Java, C, SQL, VBA
+- 🔭 Focus: Financial analysis, risk management, quantitative methods, software development
+- ❤️ Interests: Guitar, drawing, rock climbing
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
