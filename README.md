@@ -9,6 +9,7 @@
 - 📅 Hacking Since: 2024
 
 ## Featured Projects
+- 💸 **SheFinance – Women’s Trading Platform** — Full-stack financial education and trading simulation platform with real-time portfolio tracking, trade execution logic, and live market data integration. (Python, TypeScript, React, FastAPI, Next.js)
 - 📊 **Automated Portfolio Analysis Tool** — Excel-based tool for portfolio return and risk analysis using historical price data and VBA automation. (Excel, VBA) 
 - 🃏 **Card Matching Game** — GUI-based memory game built with Java Swing featuring an in-game currency system and persistent storage. (Java) 
 - 📈 **Academic & Financial Computing Projects** — Coursework and exploratory projects in algorithms, linear algebra, and financial markets. (Python, C, SQL) 
